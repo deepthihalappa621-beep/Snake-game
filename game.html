@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🐍 Snake Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="game-body">
+  <div class="snake-bg"></div>
+  <div class="game-container">
+    <div class="hud">
+      <span>👤 deepthi</span>
+      <span id="score-display">Score: 0</span>
+      <span id="level-display">Level: 1</span>
+    </div>
+    <canvas id="gameCanvas" width="500" height="500"></canvas>
+    <div id="overlay" class="overlay">
+      <h2 id="overlay-title">🐍 Snake Game</h2>
+      <p id="overlay-msg">Use arrow keys to move</p>
+      <button id="start-btn" onclick="startGame()">▶ Start Game</button>
+    </div>
+  </div>
+  <script src="game.js"></script>
+</body>
+</html>
