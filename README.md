@@ -1,4 +1,4 @@
-# Snake-game
+
 # Snake Game
 
 ![Image](https://images.openai.com/static-rsc-4/btd5UFFNNRiOiQt3r2ixsUgdAKVNVpIif_2RrSmGeHVau6V8Jwzq-3af74kgWtDtj3amgNJULIPprsvcz9S5JpYHr2nlW8t2N793l-n00sjdAakCO6XkM9nGH1TbCCpH4h4Fh0DeLT1flxZR7oFPqebxN6BojKPiDCyumS2Yi8JI_WSlycTxudhtTVTnGmPO?purpose=fullsize)
